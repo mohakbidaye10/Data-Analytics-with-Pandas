@@ -10,7 +10,12 @@ This repository contains beginner-to-intermediate level data analysis projects u
 
 ### 2. Cafe Sales Data Cleaning  
 - **Focus**: Data cleaning  
-- **Practiced**: Imputation using column logic and group means, date handling, exporting clean data  
+- **Practiced**: Imputation using column logic and group means, date handling, exporting clean data
+
+### 3. Cafe Sales - Exploratory Data Analysis (EDA)
+- **Focus**: Analyzing café sales data to uncover trends and insights.  
+- **Practiced**: Time-series analysis, sales trends, item popularity, and grouped aggregations.
+
 
 ## 🛠️ Tools Used  
 - Python 3  
